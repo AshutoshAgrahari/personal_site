@@ -1,0 +1,9 @@
+name: "Ashutosh Agrahari"
+output_dir: "."
+navbar:
+  title: "Ashutosh Agrahari"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
