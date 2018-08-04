@@ -1,0 +1,6 @@
+---
+title: "Skill Set"
+---
+
+R Programmer
+R-Shiny Developer

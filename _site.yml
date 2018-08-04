@@ -7,3 +7,11 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Education"
+      href: education.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Skill Set"
+      href: skill.html
+    - text: "Contact Me"
+      href: contact.html
