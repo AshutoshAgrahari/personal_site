@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-I am a Consultant-Analyst at KANTAR Analytics Practice, Bangalore; expertise in R programmer, Shiny App Developer, Statistical Modelling, Market Mix Modelling, Time Series Analysis etc. 
+- __Name:__ Ashutosh Agrahari
+- __Ocupation:__ "Consultant-Analyst, Kantar Analytics Practics"
+- __Introduction:__ I am a Consultant-Analyst at KANTAR Analytics Practice, Bangalore; expertise in R programmer, Shiny App Developer, Statistical Modelling, Market Mix Modelling, Time Series Analysis etc. 
+
+Here is my professional photo attending company party...
+
+![](ashutosh.jpg)
