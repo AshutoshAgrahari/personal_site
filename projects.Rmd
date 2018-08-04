@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
+here's some examples. 
+
+## [Market Mixed Modelling tool in R](https://github.com/AshutoshAgrahari/MMM_Assistant)
+
+- MMM tool is completely build in R for backend processing and Shiny for frontend UI.
+- Includes a github repo for access to all the code.
+- Look at how high quality my work is, hire and or collaborate with me. 
+
+## [R Practice Code](https://github.com/AshutoshAgrahari/R_Practice)
+
+- POC is done for many functions/logics in R.
+- Interactive plots of things
+- I can code!

@@ -5,13 +5,28 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "Projects"     
+      href: projects.html  
     - text: "Education"
       href: education.html
     - text: "Experience"
       href: experience.html
     - text: "Skill Set"
       href: skill.html
-    - text: "Contact Me"
+    - text: "Blogs"
+      href: blogs.html
+  right:
+    - icon: fa-envelope fa-lg
       href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/AshutoshAgrahari
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ashutosh_agr
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/ashutosh-agrahari-55242116/
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/ashutosh.agrahari
+output:
+  html_document:
+    theme: flatly
+    css: style.css
