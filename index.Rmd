@@ -10,4 +10,4 @@ Hello, World! Welcome to Ashutosh Agrahari website..
 
 Here is my professional photo attending company party...
 
-![](ashutosh.jpg)
+![](AshutoshAgrahari.jpg)
